@@ -1,0 +1,33 @@
+_repo: The-case-of-the-Black-Twenty-Two_75209
+_version: 0.0.1
+alternative_title: '22'
+creator:
+  author:
+    agent_name: Flynn, Brian
+    birthdate: 1885
+    deathdate: 1958
+    gutenberg_agent_id: '49940'
+    url: http://www.gutenberg.org/2009/agents/49940
+description: ''
+gutenberg_issued: '2025-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75209'
+language: en
+pgterms:marc904: https://archive.org/details/caseofblacktwent00flyn
+pgterms:marc905: 20250124094744flynn
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Bathurst, Anthony (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The case of the Black Twenty-Two
+url: http://www.gutenberg.org/ebooks/75209

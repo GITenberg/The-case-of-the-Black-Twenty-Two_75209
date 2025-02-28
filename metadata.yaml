@@ -1,6 +1,9 @@
 _repo: The-case-of-the-Black-Twenty-Two_75209
 _version: 0.1.0
 alternative_title: '22'
+covers:
+- cover_type: archival
+  image_path: 75209-h/images/cover.jpg
 creator:
   author:
     agent_name: Flynn, Brian
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49940'
     url: http://www.gutenberg.org/2009/agents/49940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75209#The-case-of-the-Black-Twenty-Two
 gutenberg_issued: '2025-01-26'
 gutenberg_type: Text
 identifiers:
